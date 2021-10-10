@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yavuz.
 - 👀 I’m interested in software testing.
-- 🌱 I’m currently learning tools about testing. 
+- 🌱 I am a Software QA Engineer.
 - 💞️ I can collaborate on testing tools and Java.
 - 📫 You can contact me via my e-mail: yavuzdeg@hotmail.com
 
