@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yavuz.
 - 👀 I’m interested in software testing.
 - 🌱 I am a Software QA Engineer.
+- I know Selenium, Cypress and Appium. 
 - 💞️ I can collaborate on testing tools and Java.
 - 📫 You can contact me via my e-mail: yavuzdeg@hotmail.com
 
