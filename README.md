@@ -2,8 +2,9 @@
 - 👀 I’m interested in software testing.
 - 🌱 I am a Software QA Engineer.
 - Java lover. I started IT with learning Java, so for me, Java always comes first :)
-- Selenium, Cucumber, TestNG, JUnit, Cypress and Appium. 
+- Selenium, Cucumber, TestNG, JUnit, Cypress and Appium.
 - Rest Assured library for API testing, Postman and JDBC.
+- SQL, Jira, Maven.
 - 💞️ I can collaborate on testing tools and Java.
 - 📫 You can contact me via my e-mail: yavuzdeg@hotmail.com
 
