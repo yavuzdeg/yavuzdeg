@@ -5,6 +5,7 @@
 - Selenium, Cucumber, TestNG, JUnit, Cypress and Appium.
 - Rest Assured library for API testing, Postman and JDBC.
 - SQL, Jira, Maven.
+- HTML, CSS and Javascript (for software testing, not advanced).
 - 💞️ I can collaborate on testing tools and Java.
 - 📫 You can contact me via my e-mail: yavuzdeg@hotmail.com
 
