@@ -3,7 +3,7 @@
 - 🌱 I am a Software QA Engineer. I work in Istanbul/Turkey.
 - Java lover. I started IT with Java.
 - Selenium, Cucumber, TestNG, JUnit, Cypress and Appium.
-- Postman and Rest Assured library for API testing and JDBC for database testing..
+- Postman and Rest Assured library for API testing and JDBC for database testing.
 - SQL, Jira, Maven.
 - HTML, CSS and Javascript (for software testing).
 - I have the ISTQB-CTFL(foundation level) certificate. 
