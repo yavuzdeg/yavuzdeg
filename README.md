@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yavuz.
 - 👀 I’m interested in software testing, both manual and automation.
 - 🌱 I am a Software QA Engineer. I work in Istanbul/Turkey.
-- Java lover. I started IT with Java.
+- Java is my main programming language.
 - Selenium, Cucumber, TestNG, JUnit, Cypress and Appium.
 - Postman and Rest Assured library for API testing and JDBC for database testing.
 - SQL, Jira, Maven.
