@@ -7,7 +7,6 @@
 - SQL, Jira, Maven.
 - HTML, CSS and Javascript (for software testing).
 - ISTQB-CTFL (foundation level) certificate. 
-- 💞️ I can collaborate on testing tools and Java.
 - 📫 You can contact me via my e-mail: yavuzdeg@hotmail.com
 
 <!---
