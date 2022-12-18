@@ -4,7 +4,7 @@
 - Core Java.
 - HTML, CSS and Javascript (for software testing).
 - Selenium, Cucumber, TestNG, JUnit, Cypress and Appium.
-- Postman and Rest Assured library for API testing and JDBC for database testing.
+- Postman and Rest Assured for API testing and JDBC for database testing.
 - SQL, Jira, Maven.
 - ISTQB-CTFL (foundation level) certificate. 
 - 📫 You can contact me via my e-mail: yavuzdeg@hotmail.com
