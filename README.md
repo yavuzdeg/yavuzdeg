@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yavuz.
 - 👀 I’m interested in software testing, both manual and automation.
-- 🌱 I am a Software QA Engineer with 4 years experience. I live in Istanbul/Turkey.
+- 🌱 I am a Software QA Engineer with 5 years experience. I live in Istanbul/Turkey.
 - Core Java.
 - HTML, CSS and Javascript (for software testing).
 - Selenium, Cucumber, TestNG, JUnit, Cypress and Appium.
