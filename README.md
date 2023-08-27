@@ -1,14 +1,12 @@
 - 👋 Hi, I’m Yavuz.
-- 👀 I’m interested in software testing, both manual and automation.
-- 🌱 I am a Software QA Engineer with 5 years experience. I live in Istanbul/Turkey.
-- Core Java and Python.
-- HTML, CSS and Javascript (for software testing).
-- Selenium, Cucumber, TestNG, JUnit, Cypress and Appium.
-- Postman and Rest Assured for API testing. 
-- JDBC for database testing.
-- SQL, Jira, Maven.
-- ISTQB-CTFL (foundation level) certificate. 
-- 📫 You can contact me via my e-mail: yavuzdeg@hotmail.com
+- 👀 A Software QA Engineer in Ankara, Turkey with 3 years of experience.
+- 🌱 Proficient in both manual and automated software testing.
+- Skilled in Core Java, Python, and web tech (HTML, CSS, Javascript) for testing.
+- Experienced with Selenium, Cucumber, TestNG, JUnit, Cypress, and Appium.
+- Proficient in API testing using Postman and Rest Assured, and database testing using JDBC.
+- Well-versed in SQL, Jira, and Maven for seamless testing processes.
+- Holder of an ISTQB-CTFL (foundation level) certificate.
+- Reach me via email: yavuzdeg@hotmail.com.
 
 <!---
 yavuzdeg/yavuzdeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
