@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yavuz.
 - 👀 A Software QA Engineer in Ankara, Turkey with 3 years of experience.
 - 🌱 Proficient in both manual and automated software testing.
+- Has a background in foreign trade, business and diplomacy.
 - Skilled in Core Java, Python, and web tech (HTML, CSS, Javascript) for testing.
 - Experienced with Selenium, Cucumber, TestNG, JUnit, Cypress, and Appium.
 - Proficient in API testing using Postman and Rest Assured, and database testing using JDBC.
