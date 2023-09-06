@@ -3,7 +3,8 @@
 - 🌱 Proficient in both manual and automated software testing.
 - Has a background in foreign trade, business and diplomacy.
 - Skilled in Core Java, Python, and web tech (HTML, CSS, Javascript) for testing.
-- Experienced with Selenium, Cucumber, TestNG, JUnit, Cypress, and Appium.
+- Experienced with Selenium, Cucumber, TestNG, and JUnit.
+- Has used Cypress and Appium.
 - Proficient in API testing using Postman and Rest Assured, and database testing using JDBC.
 - Well-versed in SQL, Jira, and Maven for seamless testing processes.
 - Holder of an ISTQB-CTFL (foundation level) certificate.
